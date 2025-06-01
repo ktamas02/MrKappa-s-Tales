@@ -1,11 +1,21 @@
 import React, { useState } from "react";
-import { NavLink } from "react-router-dom";
+import { NavLink, useLocation } from "react-router-dom";
 import "../../css/Menu.css";
-import menuItems from "./menuPages";
+import menuItems from "../utility/menuPages";
+import masterMenuItems from "../utility/masterMenuPages";
+import avventurieroMenuItems from "../utility/avventurieroMenuPages";
 
 const Menu = () => {
   const [open, setOpen] = useState({});
   const [mobileOpen, setMobileOpen] = useState(false);
+  const location = useLocation();
+
+  let items = menuItems;
+  if (location.pathname.startsWith("/master")) {
+    items = masterMenuItems;
+  } else if (location.pathname.startsWith("/avventuriero")) {
+    items = avventurieroMenuItems;
+  }
 
   const toggle = (label) => {
     setOpen((prev) => ({ ...prev, [label]: !prev[label] }));
@@ -72,7 +82,7 @@ const Menu = () => {
             </button>
           )}
         </div>
-        <nav>{renderMenuItems(menuItems)}</nav>
+        <nav>{renderMenuItems(items)}</nav>
       </div>
       {mobileOpen && (
         <div className="sidebar-backdrop" onClick={handleCloseMobile}></div>
