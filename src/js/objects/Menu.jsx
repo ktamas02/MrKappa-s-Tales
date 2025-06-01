@@ -5,10 +5,14 @@ import menuItems from "./menuPages";
 
 const Menu = () => {
   const [open, setOpen] = useState({});
+  const [mobileOpen, setMobileOpen] = useState(false);
 
   const toggle = (label) => {
     setOpen((prev) => ({ ...prev, [label]: !prev[label] }));
   };
+
+  const handleMobileToggle = () => setMobileOpen((prev) => !prev);
+  const handleCloseMobile = () => setMobileOpen(false);
 
   const renderMenuItems = (items, level = 0) => (
     <ul className={level === 0 ? "menu" : "submenu"}>
@@ -33,6 +37,7 @@ const Menu = () => {
               className="menu-link"
               activeclassname="active"
               style={{ paddingLeft: `${2 + level * 1.2}rem` }}
+              onClick={handleCloseMobile}
             >
               {item.icon && <span className="menu-icon">{item.icon}</span>}
               {item.label}
@@ -44,10 +49,35 @@ const Menu = () => {
   );
 
   return (
-    <div className="sidebar">
-      <div className="sidebar-title">MrKappa&apos;s Tales</div>
-      <nav>{renderMenuItems(menuItems)}</nav>
-    </div>
+    <>
+      {!mobileOpen && (
+        <button
+          className="sidebar-toggle"
+          aria-label="Apri menu"
+          onClick={handleMobileToggle}
+        >
+          ☰
+        </button>
+      )}
+      <div className={`sidebar${mobileOpen ? " open" : ""}`}>
+        <div className="sidebar-title">
+          MrKappa&apos;s Tales
+          {mobileOpen && (
+            <button
+              className="sidebar-close"
+              aria-label="Chiudi menu"
+              onClick={handleCloseMobile}
+            >
+              ✕
+            </button>
+          )}
+        </div>
+        <nav>{renderMenuItems(menuItems)}</nav>
+      </div>
+      {mobileOpen && (
+        <div className="sidebar-backdrop" onClick={handleCloseMobile}></div>
+      )}
+    </>
   );
 };
 
