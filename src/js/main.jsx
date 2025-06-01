@@ -8,13 +8,15 @@ import Avventuriero from "./pages/avventuriero.jsx";
 
 createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/MrKappa-s-Tales">
       <NavBar />
-      <Routes>
-        <Route path="/" element={<RoleSelector />} />
-        <Route path="/master" element={<Master />} />
-        <Route path="/avventuriero" element={<Avventuriero />} />
-      </Routes>
+      <div className="container">
+        <Routes>
+          <Route path="/" element={<RoleSelector />} />
+          <Route path="/master" element={<Master />} />
+          <Route path="/avventuriero" element={<Avventuriero />} />
+        </Routes>
+      </div>
     </BrowserRouter>
   </React.StrictMode>
 );
