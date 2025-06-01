@@ -1,0 +1,22 @@
+<svg
+      width="128"
+      height="128"
+      viewBox="0 0 128 128"
+      fill="none"
+      xmlns="http://www.w3.org/2000/svg"
+    >
+      <rect width="128" height="128" rx="32" fill="#222" />
+      <ellipse cx="64" cy="64" rx="44" ry="44" fill="#fff" />
+      <ellipse cx="64" cy="64" rx="36" ry="36" fill="#222" />
+      <text
+        x="50%"
+        y="50%"
+        text-anchor="middle"
+        fill="#fff"
+        font-size="38"
+        font-family="Arial Black, Arial, sans-serif"
+        dy=".35em"
+      >
+        K
+      </text>
+    </svg>
