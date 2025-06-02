@@ -1,0 +1,73 @@
+Sacro Impero di Graian:
+Situato a nord del continente occidentale, il Sacro Impero prende il nome dalla sua capitale, città dove la leggenda vede nascere il mezzelfo Raenal Glaze il primo imperatore, colui che riuscì per primo ad unificare le tribù intorno a lui e portare la pace all'interno delle sue terre. (II secolo dopo il miracolo, Era Bolcesbu). Per migliorare la gestione di uno stato così esteso è diviso in 13 provice, ognuna delle quali è controllata da un GranDuca. Il nome delle province deriva dai nomi degli Imperatori che le hanno conquistate o dai loro predecessori.
+
+Diplomazia:
+L'impero non tollera chi si allontana dalla religione Originale e inizia a trovarne interpretazioni proprie.
+- Rivale: Santa Diocesi di Sanha.
+- Nemici: Regno di Barteiras
+- Sospetti: GranDucato di Viras, Regno di Frascado
+- Amichevoli: Unione di Alcurin
+- Alleati: Terre Libere di Vishia
+
+Cultura:
+Essendo caratterizzato da un clima caldo la cultura risulta essere molto in stile sudAmerica, con una grande cultura del cibo (principalmente piccante) e una grande affezione verso la famiglia.
+Trattandosi di un impero diviso in province a seconda della provincia vi sono delle variazioni a livello culturare e di dialetto.
+
+Lingue: 
+Essendo uno stato privo di leggi raziali si parlano a grandi linee tutte le lingue presenti nel mondo, la più comune però oltre al Comune è l'elfico a sud e il nanico a nord.
+
+Religioni:
+Il sacro impero venera la religione "Originale" che vede Materia e Vita come due entità separate che si contendono il trono del padre, come due facce della stessa medaglia.
+All'interno dell'impero però non è difficile trovare piccoli culti verso divinità secondarie.
+
+Governo:
+Trattandosi di un impero vi è un imperatore al comando che si fa consigliare dai 12 GranDuca che regnano sulle 12 province esterne.
+
+Persone:
+Rinsa Glaze:
+	Razza: Elfi, Umani e Mezzelfi del Sole ()
+	Età: 98 anni
+	Titolo: Imperatoratrice
+	Patrimonio: 1M MP
+	Stipendio: 120k MO
+	Ruolo: Sebbene al momento il ruolo dell'imperatore sia molto inferiore rispetto al passato, ha ancora l'ultima parola su ogni scelta portata avanti dall'impero. Gestisce la 		provincia di Atiba.
+	Descrizione: La prima imperatrice donna della storia, salita al potere dopo aver sposato suo cugino è una donna affabile e molto saggia, dende ad essere sempre pronta a perdonare 	anche i comportamenti contrari verso di lei ma non tollera che si faccia del male al suo popolo. Votazione popolare e suffragio universale.
+
+Daérron Loder:
+	Razza: Nani
+	Età: 420 anni
+	Titolo: GranDuca della provincia di Conharan
+	Patrimonio: 120k MP
+	Stipendio: 40k MO
+	Ruolo: Governano la provincia più a nord dell'impero gestendone il commercio e i rapporti sociali, il GranDuca è anche incaricato del commercio dell'Impero con gli stati alleati.
+	Descrizione: Molto generoso, affabile e ottimo stratega, sceglie il suo cosigliere tra i popolani che tanto ama, ma non sceglie mai gente che possa arrivare alla sua età.
+
+Grubbin lo gnomo:
+	Razza: Gnomo
+	Età: 540 anni
+	Titolo: Sindaco di Palhela e uno degli ultimi della sua specie
+	Patrimonio: 400 MO
+	Stipendio: 50 MA
+
+Città:
+Atiba: (capitale)
+Provincia di Raenal.
+Atiba, detta anche la città di Marmo, è caratterizzata dai materiali con cui la maggior parte degli edifici sono costruiti, Il Marmo Bianco e Azzurro scavato nelle grotte marittime sotto la città.
+Completamente circondata da un circolo murario ospita più di 60k persone e detiene il primato come città più sicura dell'impero per il numero di guardie che ne sorvegliano le strade giorno e notte.
+Famosa per il suo mercato di tessuti e per le sue parate musicali immense.
+
+Milvaveria: (capoluogo)
+Provincia di Conharan.
+Città costruita dentro una scogliera che chiude una vallata scavata dal fiume Graia.
+Composta su tre livelli, il primo in superficie ospita le ville dei nobili (circa 1000 persone tra servitù e famiglie), il secondo è molto alto e stretto, con un soffitto di circa 	30 metri che sembra rappresentare il cielo (circa 100 abitanti), il terzo è il piano residenziale, le case sono scavate dentro stalattiti e stalagmiti raggiungibili con scale in 	legno e impalcature. Dal 3 si apre una porta enorme contornata da due statue di Goliath che sorreggono la volta alta 7,5 m, oltre la porta il porto sul fiume navigabile verso nord.
+Il 3 si collega al 2 con una enorme doppia scalinata (o un ascensore) dentro il Municipio scavato dentro ad una colonna. Il 2 al primo tramite una scalinata di marmo. I cristalli avvolti dal mistero che illuminano i piani interrati sono venduti e famosi in tutto il mondo con un costo molto elevato. Il mercato della città è famoso come il più grande mercato del continente occidentale.
+
+Orchesca: 
+Provincia di Conharan.
+Accampamento situato sopra un lago ghiacciato maggiormente abitato da Orchi e studiosi (13 studiosi e 12 orchi).
+Sotto il ghiaccio del lago si nasconde l'entrata del dungeon delle Caverne Sussurranti di Vento Gelido, tempio che conserva la grande reliquia bianca. (Uovo di Drago bianco dell'originale).
+
+Palhela:
+Provincia di Mealpalmi.
+Paesino sperso nelle montagne del sud del paese, un paese di taglialegna e cacciatori.
+Ottimi conciatori di pelli guidati da Grubbin lo gnomo.

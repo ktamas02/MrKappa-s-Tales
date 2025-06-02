@@ -1,0 +1,28 @@
+Persone:
+Evelyn Hasford, la Volpe Bianca:
+	Razza: Elfa dei Boschi
+	Età: 219 anni
+	Titolo: Ex Duchessa della provincia di Haranu
+	Patrimonio: 5k MP
+	Stipendio: 150 MO
+	Descrizione: Cerca sempre di mostrarsi come una nobile educata, anche se tende ad essere un maschiaccio. Educata, impulsiva e gentile verso le persone a lei care. Abile Duchessa 	fino alla morte per mano di spie inviate dal Gran Ducato di Viras. (Sostituita poi da Nox che ha preso il suo posto). Ex mercenaria e amante di Nox.
+
+Alfredo Kukaan:
+	Razza: Umano
+	Età: 30 anni
+	Titolo: Ex Schiavo della Duchessa della provincia di Haranu e attuale consigliere e reggente della provincia.
+	Patrimonio: 0
+	Stipendio: 20 MO
+	Descrizione: Persona molto servizievole, gentile, educata e affabile. Venduto come schiavo si da piccolo ha stretto un patto con Evelyn e poi con Nox.
+
+Borin Stoneblade:
+	Razza: nano
+	Età: 337 anni
+	Titolo: Duca della provincia di Kur-Shul
+	Patrimonio: 10k MP
+	Stipendio: 200 MO
+	Descrizione: Un nano molto burbero e scontroso, affettuoso con le persone che secondo lui sono meritevoli. Ha donato la terra a Evelyn per renderla da sua guardia del corpo a 	Duchessa.
+
+Città:
+Nikan:
+Descrizione: appena fuori città vi è uno dei più importanti mercanti di Schiavi di tutta Eriria, non rientra nella giuristizione della provincia, è completamente legale.
